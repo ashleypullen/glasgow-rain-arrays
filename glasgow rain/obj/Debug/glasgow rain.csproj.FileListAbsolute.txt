@@ -1,0 +1,10 @@
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\obj\Debug\glasgow rain.csprojAssemblyReference.cache
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\obj\Debug\glasgow_rain.Form1.resources
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\obj\Debug\glasgow_rain.Properties.Resources.resources
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\obj\Debug\glasgow rain.csproj.GenerateResource.cache
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\obj\Debug\glasgow rain.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\bin\Debug\glasgow rain.exe.config
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\bin\Debug\glasgow rain.exe
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\bin\Debug\glasgow rain.pdb
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\obj\Debug\glasgow rain.exe
+C:\Users\ashle\source\repos\glasgow rain\glasgow rain\obj\Debug\glasgow rain.pdb
